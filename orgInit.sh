@@ -20,4 +20,4 @@ sfdx force:data:tree:import --plan data/Plan2.json
 sfdx force:apex:execute -f config/create-demo-data-setup.apex
 
 # Open org
-sfdx force:org:open -p /lightning/o/Contact/list?filterName=Recent
+sfdx force:org:open -p /lightning/o/Contact/list?filterName=CreditAppListView
