@@ -4,7 +4,7 @@
     <standardValue>
         <fullName>Support</fullName>
         <default>false</default>
-        <label>Other</label>
+        <label>Support</label>
     </standardValue>
     <standardValue>
         <fullName>Credit Increase Request</fullName>
