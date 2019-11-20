@@ -5,8 +5,9 @@
                 "type": "Contact",
                 "referenceId": "ContactRef1"
             },
-  	    "FirstName": "Susan",
-	    "LastName": "Collins",
+  	    "FirstName": "Roger",
+	    "LastName": "Mason",
+	    "Title": "CFO"
 	    "AccountId": "@AccountRef1"
         }
     ]

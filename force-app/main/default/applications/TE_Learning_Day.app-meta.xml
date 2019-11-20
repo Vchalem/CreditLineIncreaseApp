@@ -18,7 +18,7 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>Credit Line App</label>
     <navType>Standard</navType>
-    <tabs>standard-Contact</tabs>
+    <tabs>standard-Account</tabs>
     <tabs>standard-Case</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>TE_Learning_Day_UtilityBar</utilityBar>
